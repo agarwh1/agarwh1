@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harshul Agarwal</h1>
-<h3 align="center">I am currently a freshman at Northeastern University pursuing a Bachelors degree in Computer Science. from India</h3>
+<h3 align="center">I am currently a freshman at Northeastern University pursuing a Bachelors degree in Computer Science.</h3>
+<h3 align="center">I am from Hong Kong.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=agarwh1&label=Profile%20views&color=0e75b6&style=flat" alt="agarwh1" /> </p>
 
